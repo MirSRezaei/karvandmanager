@@ -1,0 +1,112 @@
+{
+    "bootcamp": {
+        "title": "karvand python",
+        "year": 2026
+    },
+    "karvands": [
+        {
+            "id": 1,
+            "fullname": "saeed",
+            "email": "saeed@gmail.com",
+            "city": "tehran",
+            "education": {
+                "degree": "pharmD",
+                "field": "pharmD"
+            },
+            "skills": [
+                {
+                    "name": "py",
+                    "level": "mid",
+                    "score": 80
+                },
+                {
+                    "name": "sql",
+                    "level": "jun",
+                    "score": 50
+                },
+                {
+                    "name": "matlab",
+                    "level": "jun",
+                    "score": 40
+                },
+                {
+                    "name": "c++",
+                    "level": "mid",
+                    "score": 80
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "fullname": "hamed",
+            "email": "hamed@gmail.com",
+            "city": "mash",
+            "education": {
+                "degree": "doc",
+                "field": "eng"
+            },
+            "skills": [
+                {
+                    "name": "py",
+                    "level": "mid",
+                    "score": 90
+                },
+                {
+                    "name": "ms",
+                    "level": "80",
+                    "score": 80
+                },
+                {
+                    "name": "sql",
+                    "level": "sen",
+                    "score": 100
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "fullname": "as",
+            "email": "as",
+            "city": "as",
+            "education": {
+                "degree": "as",
+                "field": "as"
+            },
+            "skills": [
+                {
+                    "name": "as",
+                    "level": "as",
+                    "score": 40
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "fullname": "as",
+            "email": "as",
+            "city": "as",
+            "education": {
+                "degree": "as",
+                "field": "as"
+            },
+            "skills": []
+        },
+        {
+            "id": 5,
+            "fullname": "asd",
+            "email": "ads",
+            "city": "ad",
+            "education": {
+                "degree": "ads",
+                "field": "ads"
+            },
+            "skills": [
+                {
+                    "name": "a",
+                    "level": "d",
+                    "score": 0
+                }
+            ]
+        }
+    ]
+}

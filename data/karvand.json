@@ -107,6 +107,23 @@
                     "score": 0
                 }
             ]
+        },
+        {
+            "id": 6,
+            "fullname": "agha",
+            "email": "agha@gmail",
+            "city": "teh",
+            "education": {
+                "degree": "fg",
+                "field": "fgfg"
+            },
+            "skills": [
+                {
+                    "name": "py",
+                    "level": "ii",
+                    "score": 90
+                }
+            ]
         }
     ]
 }

@@ -1,0 +1,20 @@
+{
+    "total karvands": 5,
+    "total skills": 9,
+    "avg skill score": 62.22222222222222,
+    "cities": [
+        "tehran",
+        "mash",
+        "as",
+        "ad"
+    ],
+    "unique skills": [
+        "py",
+        "sql",
+        "matlab",
+        "c++",
+        "ms",
+        "as",
+        "a"
+    ]
+}

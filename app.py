@@ -11,8 +11,10 @@ import os
 
 # path = r"karvand.json"
 jsonpath = r"karvand.json"
+rep = r"report.json"
 dirpath = r"data"
 path = os.path.join(dirpath,jsonpath)
+reppath = os.path.join(dirpath,rep)
 
 # bootcamp = input("bootcamp title : ")
 # year = input("bootcamp year : ")
@@ -239,7 +241,7 @@ while True:
                 print(f"avg skill score : {avg_skill_score}")
                 print(f"cities : {cities}")    
                 print(f"unique skills : {uni_skills}")
-                with open(path,'w') as rep:
+                with open(reppath,'w') as rep:
                     json.dump({"total karvands" : karvand_count,"total skills" : skill_count,"avg skill score" : avg_skill_score
                             ,"cities" : cities, "unique skills" : uni_skills},rep,indent = 4)
                                 
